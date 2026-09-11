@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0263-ugly-number) |
 ## Recursion
 |  |
 | ------- |
