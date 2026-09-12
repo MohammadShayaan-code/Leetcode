@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0263-ugly-number) |
 ## Recursion
@@ -34,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
