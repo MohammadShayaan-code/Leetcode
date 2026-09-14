@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
 | ------- |
