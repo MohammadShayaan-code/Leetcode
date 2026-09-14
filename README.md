@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0168-excel-sheet-column-title](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Two Pointers
 |  |
 | ------- |
