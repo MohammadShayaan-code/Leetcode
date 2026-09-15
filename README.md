@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MohammadShayaan-code/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Recursion
 |  |
 | ------- |
@@ -65,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0258-add-digits) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MohammadShayaan-code/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0258-add-digits) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MohammadShayaan-code/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Array
 |  |
 | ------- |
@@ -82,4 +85,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0268-missing-number) |
+## Prime Factorization
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MohammadShayaan-code/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Primality Test
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MohammadShayaan-code/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Sieve Theory
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MohammadShayaan-code/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MohammadShayaan-code/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
