@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0015-3sum) |
 | [0202-happy-number](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0268-missing-number) |
 ## Prime Factorization
 |  |
