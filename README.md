@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0168-excel-sheet-column-title](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sliding Window
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MohammadShayaan-code/Leetcode/tree/master/0268-missing-number) |
 ## Prime Factorization
 |  |
